@@ -40,6 +40,10 @@ P(w1:n)=P(w1)P(w2∣w1)P(w3∣w1:2)...P(wn∣w1:n−1)=∏k=1nP(wk∣w1:k−1)
 
 ### **IMDB reviews file**
 
+the splitting is not done because the train data and the test data is given in the different files.
+
+the secrets module selects random text from the test data.
+
 ![input](https://user-images.githubusercontent.com/84316456/203908671-c30712f1-ce47-4bae-b958-eaf85d1fecbf.jpg)
 
 List created as **reviews** and appending all the data from the file into the reviews list
