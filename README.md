@@ -126,3 +126,11 @@ In the function perplexity_of_test_sent, I’ve taken list of ngrams for a test 
 I took the frequency of ngrams of that sentence and calculated perplexity as per formulae. 
 
 When unseen data comes we have to do smoothing i.e., add-one smoothing which adds 1 to numerator and  vocabulary size to denominator.
+
+## **Team:**
+
+Y.Vinay Ashish
+
+Sk.Moinuddin
+
+R.Meghana
